@@ -5,7 +5,7 @@ namespace WinFormsTemplate
 {
     public partial class MainForm : Form
     {
-        public MainForm()
+        public Form()
         {
             InitializeComponent();
         }
